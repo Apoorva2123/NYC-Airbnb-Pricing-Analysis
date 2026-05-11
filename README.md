@@ -69,6 +69,10 @@ Which room types dominate the NYC Airbnb marketplace?
 
 ## 3. Customer Demand & Occupancy Analysis
 
+<p align="center">
+  <img src="images/customer_demand_availability.png" width="750"/>
+</p>
+
 ### Business Question
 What factors indicate strong customer demand and booking activity?
 
