@@ -54,6 +54,9 @@ Which locations and property types generate the strongest revenue potential?
 
 ### Business Question
 Which room types dominate the NYC Airbnb marketplace?
+<p align="center">
+  <img src="images/Distribution of Borough by RoomType.png" width="750"/>
+</p>
 
 ### Key Insights
 - Entire homes/apartments represented over **52%** of total Airbnb listings.
