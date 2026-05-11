@@ -213,6 +213,7 @@ are the strongest drivers of Airbnb pricing across NYC.
 - NumPy
 - Matplotlib
 - Seaborn
+- Plotly
 - Scikit-learn
 - Jupyter Notebook
 
