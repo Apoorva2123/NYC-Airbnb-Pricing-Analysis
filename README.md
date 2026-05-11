@@ -95,8 +95,13 @@ What factors indicate strong customer demand and booking activity?
 
 ## 4. Geographic Intelligence Analysis
 
+<p align="center">
+  <img src="images/nyc_interactive_map_overview.png" width="750"/>
+</p>
+
 ### Business Question
 How does geographic location influence Airbnb pricing and market demand?
+
 
 ### Key Insights
 - Premium-priced listings were heavily concentrated in Manhattan and central NYC regions.
@@ -137,6 +142,11 @@ Which listings appear over-available or potentially underutilized?
 
 ## Feature Engineering
 Engineered advanced features including:
+
+<p align="center">
+  <img src="images/log_transformation.png" width="750"/>
+</p>
+
 - Log-transformed pricing
 - Neighborhood encoding
 - Room-type segmentation
