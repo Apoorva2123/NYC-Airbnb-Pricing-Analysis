@@ -77,7 +77,7 @@ Which room types dominate the NYC Airbnb marketplace?
 What factors indicate strong customer demand and booking activity?
 
 ### Key Insights
-- Listings with medium availability averaged **39.3 customer reviews**, indicating stronger booking consistency.
+- Medium-availability listings represented the largest share of customer demand at 38.3%.
 - Shared rooms generated the highest average reviews per month (**1.48 reviews/month**), suggesting strong recurring engagement.
 - Low availability combined with high review activity often indicated stronger occupancy and booking demand.
 
